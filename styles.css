@@ -1,0 +1,92 @@
+:root {
+  --primary-color: #2563eb;
+  --primary-hover: #1d4ed8;
+  --bg-color: #f8fafc;
+  --text-color: #1e293b;
+  --light-text: #64748b;
+  --white: #ffffff;
+  --warning-bg: #fffbe6;
+  --warning-border: #ffe58f;
+  --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  background-color: var(--white);
+  border-bottom: 1px solid #e2e8f0;
+  padding: 40px 0;
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+
+header h1 {
+  margin: 0;
+  color: var(--primary-color);
+  font-size: 2.5rem;
+  font-weight: 800;
+  text-transform: capitalize;
+}
+
+main {
+  margin-top: 30px;
+}
+
+section {
+  background: var(--white);
+  padding: 30px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  box-shadow: var(--shadow);
+}
+
+h2, h3 {
+  color: var(--primary-color);
+  margin: 0;
+}
+
+.warning-box {
+  background-color: var(--warning-bg);
+  border-left: 5px solid var(--warning-border);
+}
+
+.warning-box h2 {
+  color: #856404;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.intro p {
+  font-size: 1.1rem;
+  color: var(--light-text);
+}
+
+footer {
+  text-align: center;
+  padding: 40px 20px;
+  color: var(--light-text);
+  font-size: 0.9rem;
+}
+
+/* Ajustes para dispositivos móviles */
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 1.8rem;
+  }
+  .container {
+    padding: 15px;
+  }
+}

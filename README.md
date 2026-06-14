@@ -2,6 +2,24 @@
 
 Este repositorio será utilizado para construir progresivamente un proyecto pedagógico sobre participación juvenil, transparencia, control ciudadano y tecnología.
 
+## nombre del estudiante:
+hailer duvan julio palomino
+
+## grupo 49
+
+## proposito:
+aprender como la tecnologia puede apoyar ejercicios pedagogicos de participacion juvenil, transparencia y trazabilidad.
+
+# REGLAS DE CUIDADO:
+-no usar datos reales
+-no usar cedula
+-no usar informacion senseble
+-no usar informacion de candidatos reales
+-no presentar resultados como oficiales
+
+## importancia de git
+git permite registrar los cambios y verificar que se cambio
+---------------------------------------------------------------------------
 ## Advertencia
 
 Este proyecto es únicamente académico.
