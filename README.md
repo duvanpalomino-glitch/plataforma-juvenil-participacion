@@ -15,6 +15,7 @@ aprender como la tecnologia puede apoyar ejercicios pedagogicos de participacion
 -no usar cedula
 -no usar informacion senseble
 -no usar informacion de candidatos reales
+
 -no presentar resultados como oficiales
 
 ## importancia de git
