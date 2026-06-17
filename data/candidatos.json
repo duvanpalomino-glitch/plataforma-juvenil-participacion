@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1781662300235,
+    "nombre": "darmian",
+    "rol": "policia",
+    "propuesta": "capturar ladrones",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1781662348257,
+    "nombre": "duvan",
+    "rol": "futbolista",
+    "propuesta": "ganarme el mundial",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1781662404977,
+    "nombre": "diego",
+    "rol": "musico",
+    "propuesta": "hacer la mejor musica de la historia",
+    "estado": "Perfil de práctica académica"
+  }
+]
