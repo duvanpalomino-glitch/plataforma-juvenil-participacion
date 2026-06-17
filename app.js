@@ -86,4 +86,4 @@ btnGuardarCandidato.addEventListener("click", async function () {
   cargarCandidatosGuardados();
 });
 
-cargarCandidatosGuardados();
+cargarCandidatosGuardados(); 
